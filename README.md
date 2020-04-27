@@ -1,3 +1,3 @@
 # notebook
 
-See [Wiki](https://github.com/philipf/notebook/wiki)
+See [Wiki](https://github.com/philipf/notebook/wiki/Index)
